@@ -7,7 +7,7 @@
 
 ### Work experience:
 &nbsp;&nbsp;&nbsp;&nbsp;:hammer: I work in a Sber (Moscow), work direction: 'Web development'. Position Frontend developer (current)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I work in a Sber (Novosibirsk), work direction: 'Web development'. Position Backend developer (8 month)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a Sber (Novosibirsk), work direction: 'Web development'. Position Backend developer (8 month)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a InfoSoft (Novosibirsk), work direction: 'Web development'. Position Frontend Developer (9 month)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked as an intern in a MegaFon (Novosibirsk), work direction: 'Quality Assurance'. Position Intern (8 month)<br/>
 
