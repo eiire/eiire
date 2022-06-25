@@ -2,22 +2,27 @@
 [![dev.to badge](https://img.shields.io/badge/-eiire-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/eiire/)
 [![glitch badge](https://img.shields.io/badge/-eiire-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100005093769038)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bulax.d.2101@gmail.com)](mailto:bulax.d.2101@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__eiire/)](https://www.instagram.com/__eiire/)
+[![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/eiire)](https://vk.com/eiire)
 
 ### Work experience:
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I work in a Sber, work direction: 'Web development'. Position Back-end developer (current)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a InfoSoft, work direction: 'Web development'. Position Front-end Developer (9 month)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked as an intern in a MegaFon, work direction: 'Quality Assurance'. Position Intern (8 month)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I work in a Sber (Moscow), work direction: 'Web development'. Position Frontend developer (current)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I work in a Sber (Novosibirsk), work direction: 'Web development'. Position Backend developer (8 month)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a InfoSoft (Novosibirsk), work direction: 'Web development'. Position Frontend Developer (9 month)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked as an intern in a MegaFon (Novosibirsk), work direction: 'Quality Assurance'. Position Intern (8 month)<br/>
 
 #### → Technologies I have worked with 
 &nbsp;&nbsp;&nbsp;&nbsp;Frontend: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F5ED2F?&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-2D2D2D?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=6C09B5)
 ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-fff?&logo=ReduxSaga&logoColor=6C09B5)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-fff?&logo=ReactRouter&logoColor=6C09B5)
-![JQuery](https://img.shields.io/badge/-JQuery-fff?&logo=JQuery&logoColor=blue)
+![WebSocket](https://img.shields.io/badge/-WebSocket-fff?&logo=WebSocket)
+![Mui](https://img.shields.io/badge/-Mui-fff?&logo=Mui&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=blue)
+![JQuery](https://img.shields.io/badge/-JQuery-fff?&logo=JQuery&logoColor=blue)
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Backend:
 ![PHP](https://img.shields.io/badge/-PHP-4F5B93?&logo=PHP&logoColor=fff)
