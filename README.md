@@ -22,7 +22,6 @@
 ![WebSocket](https://img.shields.io/badge/-WebSocket-fff?&logo=WebSocket)
 ![Mui](https://img.shields.io/badge/-Mui-fff?&logo=Mui&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=blue)
-![JQuery](https://img.shields.io/badge/-JQuery-fff?&logo=JQuery&logoColor=blue)
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Backend:
 ![PHP](https://img.shields.io/badge/-PHP-4F5B93?&logo=PHP&logoColor=fff)
