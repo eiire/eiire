@@ -1,6 +1,8 @@
 ### Hi, I'm <a href="https://vk.com/eiire">Dmitry Bulakh (eiire)</a> 👋🏼👨🏻‍💻
 [![dev.to badge](https://img.shields.io/badge/-eiire-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/eiire/)
-[![glitch badge](https://img.shields.io/badge/-eiire-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100005093769038)
+[![Icloud Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eiire@icloud.com)](mailto:eiire@icloud.com)
+
+[![glitch badge](https://img.shields.io/badge/-eiire-fff?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100005093769038)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bulax.d.2101@gmail.com)](mailto:bulax.d.2101@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__eiire/)](https://www.instagram.com/__eiire/)
 [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/eiire)](https://vk.com/eiire)
@@ -13,9 +15,10 @@
 
 #### → Technologies I have worked with 
 &nbsp;&nbsp;&nbsp;&nbsp;Frontend: 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F5ED2F?&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F5ED2F?&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-2D2D2D?&logo=React)
+![Canvas](https://img.shields.io/badge/-Canvas-6D6D6D?&logo=Canvas)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=6C09B5)
 ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-fff?&logo=ReduxSaga&logoColor=6C09B5)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-fff?&logo=ReactRouter&logoColor=6C09B5)
