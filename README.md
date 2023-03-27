@@ -8,10 +8,10 @@
 [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/eiire)](https://vk.com/eiire)
 
 ### Work experience:
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I work in a Sber (Moscow), work direction: 'Web development'. Position Manager - Middle Frontend developer (current)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a Sber (Novosibirsk), work direction: 'Web development'. Position Backend Developer (8 month)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a InfoSoft (Novosibirsk), work direction: 'Web development'. Position Frontend Developer (9 month)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked as an intern in a MegaFon (Novosibirsk), work direction: 'Quality Assurance'. Position Intern (8 month)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I work in a Sber (Moscow), work direction: 'Web development'. Position <b>Manager - Middle Frontend developer</b> (current)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a Sber (Novosibirsk), work direction: 'Web development'. Position <b>Backend Developer</b> (8 month)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a InfoSoft (Novosibirsk), work direction: 'Web development'. Position <b>Frontend Developer</b> (9 month)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked as an intern in a MegaFon (Novosibirsk), work direction: 'Quality Assurance'. Position <b>Intern</b> (8 month)<br/>
 
 #### → Technologies I have worked with 
 &nbsp;&nbsp;&nbsp;&nbsp;Frontend: 
