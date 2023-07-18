@@ -39,6 +39,13 @@
 
 <hr/>
 
+### Other activities:
+[Sport profile](https://www.runtastic.com/user/AR9XOM7WLDGI5ONU)
+<br/>
+[![Runtastic Badge](https://d1ki59phkeobjj.cloudfront.net/rt-ember/ember-cli-runtastic-commons/assets/adidas-runtastic-logo-084d29232873529229b9adf7af65c6b3.png)](https://www.runtastic.com/user/AR9XOM7WLDGI5ONU)
+
+<hr/>
+
 ### Education:
 &nbsp;&nbsp;&nbsp;&nbsp;:orange_book: <b>Alumnus</b> of Siberian State University of Telecommunications and Сomputer Science, study program: 'Computer Engineering' (09.03.01 'Информатика и вычислительная техника')<br/>
 <br/>
