@@ -90,7 +90,7 @@
 
 <hr/>
 
-⚡ Fact: I love web development🧡 :) (and active sports ;)<br/>
+⚡ Fact: I love web development, active sport, yoga and meditation 🧡 :) <br/>
 
 <hr/>
 
