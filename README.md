@@ -17,8 +17,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Frontend: 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F5ED2F?&logo=JavaScript&logoColor=black)
+![RxJS](https://img.shields.io/badge/-RxJS-444?&logo=reactivex&logoColor=b7178c)
 ![React](https://img.shields.io/badge/-React-2D2D2D?&logo=React)
 ![Canvas](https://img.shields.io/badge/-Canvas-6D6D6D?&logo=Canvas)
+![InversifyJS](https://img.shields.io/badge/-InversifyJS-fff?&logo=InversifyJS)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=6C09B5)
 ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-fff?&logo=ReduxSaga&logoColor=6C09B5)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-fff?&logo=ReactRouter&logoColor=6C09B5)
