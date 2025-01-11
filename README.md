@@ -14,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked in a InfoSoft (Novosibirsk), work direction: 'Web development'. Position <b>Frontend Developer</b> (9 month)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;:hammer: I worked as an intern in a MegaFon (Novosibirsk), work direction: 'Quality Assurance'. Position <b>Intern</b> (8 month)<br/>
 
+#### The project I've been working on for 3 years is Whiteboard (Doski similar Miro)
+
 #### → Technologies I have worked with 
 &nbsp;&nbsp;&nbsp;&nbsp;Frontend: 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?&logo=TypeScript&logoColor=white)
